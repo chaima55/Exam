@@ -1,0 +1,4 @@
+ID*CONTENUE*reponses*iscorrect
+1*lorem ipsum1*rep1+rep2+rep3+rep4*rep2
+2*lorem ipsum2*rep1+rep2+rep3+rep4*rep1
+3*lorem ipsum3*rep1+rep2+rep3+rep4+rep5+rep6*rep2^rep4
